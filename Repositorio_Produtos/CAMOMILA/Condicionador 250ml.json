@@ -1,0 +1,36 @@
+{
+    "produto": {
+        "nome": "Condicionador 250ml",
+        "linha": "",
+        "categoria": "",
+        "formato": "Frasco de plástico opaco com acabamento acetinado, de formato orgânico e curvilíneo, mais largo no centro e afinando para a base e o gargalo. Possui um gargalo cilíndrico e tampa flip-top na cor do frasco, com um anel dourado metálico na base da tampa.",
+        "design_e_cores": "O frasco é de um tom creme claro opaco. A tampa flip-top é da mesma cor creme claro, com um anel dourado metálico logo abaixo da parte superior. O rótulo frontal tem uma faixa vertical laranja vibrante no lado esquerdo com o texto 'BIO EXTRATUS' e 'COSMÉTICOS NATURAIS' em branco. A área central do rótulo é na cor creme claro do frasco, com ilustrações de flores de camomila e um girassol com folhas e botões verdes no canto superior direito. Os textos 'Condicionador Iluminador', 'CAMOMILA' e 'e Girassol' são em verde escuro. O texto 'ZERO%' é em preto, com 'Corantes', 'Parabenos' e 'Petrolatos' em preto dentro de uma caixa branca adjacente. 'VEGANO' e 'pH 4,5' são em laranja, acompanhados de um ícone de folha dourado/amarelo. 'Dermatologicamente testado' é em branco. Na parte inferior do rótulo, há uma faixa horizontal laranja mais clara, contendo os textos 'BRILHO E SUAVIDADE', 'LOIROS NATURAIS, COLORIDOS OU COM MECHAS' e '250mL' em branco. Na parte inferior do frasco, há o logotipo 'BIO EXTRATUS' e um emblema de folha em relevo, na cor creme claro do frasco.",
+        "textos_exatos_do_rotulo": [
+            "BIO EXTRATUS",
+            "COSMÉTICOS NATURAIS",
+            "Condicionador Iluminador",
+            "CAMOMILA",
+            "e Girassol",
+            "ZERO%",
+            "Corantes",
+            "Parabenos",
+            "Petrolatos",
+            "VEGANO",
+            "pH 4,5",
+            "Dermatologicamente testado",
+            "BRILHO E",
+            "SUAVIDADE",
+            "LOIROS NATURAIS,",
+            "COLORIDOS OU COM MECHAS",
+            "250mL",
+            "BIO EXTRATUS"
+        ]
+    },
+    "iluminacao_e_renderizacao": {
+        "tipo_de_luz": "Iluminação geral de estúdio (studio lighting), clara, neutra e suave.",
+        "sombras": "Sombras nítidas e marcadas projetadas para um lado, destacando a textura tridimensional e o volume.",
+        "texturas": "[Ex: Reflexos especulares sutis no plástico e material fosco realista.]",
+        "qualidade": "Ultra-detalhado, fotografia de produto hiper-realista em 4K, lente 85mm macro f/8, qualidade de campanha publicitária, texturas de material ricas e foco absolutamente nítido nos textos."
+    },
+    "prompt_negativo": "texto borrado, erros ortográficos nos rótulos, proporções distorcidas, iluminação plana, aspecto de pintura ou desenho animado, cores desbotadas, sombras suaves ou ausentes."
+}

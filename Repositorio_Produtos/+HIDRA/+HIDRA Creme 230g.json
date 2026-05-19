@@ -1,0 +1,37 @@
+{
+    "produto": {
+        "nome": "+HIDRA Creme 230g",
+        "linha": "",
+        "categoria": "",
+        "formato": "Pote cilíndrico baixo e largo, de plástico com acabamento fosco, com tampa de rosca plana e larga, também de plástico fosco.",
+        "design_e_cores": "Pote e tampa são de um tom de roxo profundo e vibrante, com acabamento fosco. O logotipo 'BIO EXTRATUS' e a tagline 'COSMÉTICOS NATURAIS' são impressos em dourado metálico. Os títulos '+HIDRA', 'Ácido Hialurônico', 'MÁSCARA', 'Hidratante' e 'CABELOS RESSECADOS' são em branco puro. O termo 'preenchedor' está em branco sobre uma faixa retangular horizontal em amarelo pastel. No lado esquerdo, o texto vertical 'Dermatologicamente testado' e os marcadores de ingredientes ('Ácido Hialurônico', 'Blend de Óleos') são em um tom de rosa choque. No lado direito, um banner vertical com 'VENDA PROIBIDA' é branco sobre um fundo roxo um pouco mais claro que o pote, com um sutil contorno em roxo pálido. Abaixo do banner, selos e informações como 'VEGANO', 'ZERO Corantes e Parabenos', 'pH 4,0' e 'Hidratação Prolongada' são apresentados em branco sobre fundos circulares ou quadrados em rosa choque, exceto para o fundo do ícone 'ZERO' que é em um tom de rosa avermelhado. A gramatura '230g' é impressa em branco.",
+        "textos_exatos_do_rotulo": [
+            "BIO EXTRATUS",
+            "COSMÉTICOS NATURAIS",
+            "+HIDRA",
+            "Ácido Hialurônico",
+            "preenchedor",
+            "MÁSCARA",
+            "Hidratante",
+            "CABELOS RESSECADOS",
+            "Dermatologicamente testado",
+            "Ácido Hialurônico",
+            "Blend de Óleos",
+            "VENDA PROIBIDA",
+            "VEGANO",
+            "ZERO",
+            "Corantes",
+            "Parabenos",
+            "pH 4,0",
+            "Hidratação Prolongada",
+            "230g"
+        ]
+    },
+    "iluminacao_e_renderizacao": {
+        "tipo_de_luz": "Iluminação geral de estúdio (studio lighting), clara, neutra e suave.",
+        "sombras": "Sombras nítidas e marcadas projetadas para um lado, destacando a textura tridimensional e o volume.",
+        "texturas": "[Ex: Reflexos especulares sutis no plástico e material fosco realista.]",
+        "qualidade": "Ultra-detalhado, fotografia de produto hiper-realista em 4K, lente 85mm macro f/8, qualidade de campanha publicitária, texturas de material ricas e foco absolutamente nítido nos textos."
+    },
+    "prompt_negativo": "texto borrado, erros ortográficos nos rótulos, proporções distorcidas, iluminação plana, aspecto de pintura ou desenho animado, cores desbotadas, sombras suaves ou ausentes."
+}

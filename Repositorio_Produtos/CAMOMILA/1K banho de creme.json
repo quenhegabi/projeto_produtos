@@ -1,0 +1,32 @@
+{
+    "produto": {
+        "nome": "1K banho de creme",
+        "linha": "",
+        "categoria": "",
+        "formato": "Pote cilíndrico de plástico liso com tampa de rosca plana do mesmo material.",
+        "design_e_cores": "Pote e tampa na cor creme. O rótulo frontal possui uma faixa superior curva em laranja, com o logo 'BIO EXTRATUS' em dourado e 'COSMÉTICOS NATURAIS' em verde escuro. O fundo principal do rótulo é creme, com uma ilustração vertical de flores de camomila brancas com miolo amarelo e caules e folhas em verde escuro no lado esquerdo. Há uma segunda faixa inferior horizontal em laranja, contendo um detalhe dourado metálico em formato de folha no centro. Os textos 'Banho de Creme Iluminador', 'e Girassol' e 'VEGANO' são em verde escuro. O texto 'CAMOMILA' é em um verde mais vibrante e bold. 'ZERO%' está em branco dentro de uma caixa com contorno verde escuro. Os textos 'Corantes, Parabenos, Petrolatos' e 'pH 4,5' são em preto. Os textos 'BRILHO E SUAVIDADE', 'LOIROS NATURAIS, COLORIDOS OU COM MECHAS' e '1Kg' são em branco.",
+        "textos_exatos_do_rotulo": [
+            "BIO EXTRATUS",
+            "COSMÉTICOS NATURAIS",
+            "Banho de Creme Iluminador",
+            "CAMOMILA",
+            "e Girassol",
+            "VEGANO",
+            "ZERO%",
+            "Corantes",
+            "Parabenos",
+            "Petrolatos",
+            "pH 4,5",
+            "BRILHO E SUAVIDADE",
+            "LOIROS NATURAIS, COLORIDOS OU COM MECHAS",
+            "1Kg"
+        ]
+    },
+    "iluminacao_e_renderizacao": {
+        "tipo_de_luz": "Iluminação geral de estúdio (studio lighting), clara, neutra e suave.",
+        "sombras": "Sombras nítidas e marcadas projetadas para um lado, destacando a textura tridimensional e o volume.",
+        "texturas": "[Ex: Reflexos especulares sutis no plástico e material fosco realista.]",
+        "qualidade": "Ultra-detalhado, fotografia de produto hiper-realista em 4K, lente 85mm macro f/8, qualidade de campanha publicitária, texturas de material ricas e foco absolutamente nítido nos textos."
+    },
+    "prompt_negativo": "texto borrado, erros ortográficos nos rótulos, proporções distorcidas, iluminação plana, aspecto de pintura ou desenho animado, cores desbotadas, sombras suaves ou ausentes."
+}

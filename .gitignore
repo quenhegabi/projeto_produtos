@@ -1,0 +1,20 @@
+# Sensitive data
+*.key
+*.pem
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs and temporary files
+*.log
+
+# Large assets (exclude from repo)
+Repositorio_Final_JPG/
+
+# Excel files
+*.xlsx
+
+# IDE / editor settings
+.vscode/
+.idea/

@@ -1,0 +1,32 @@
+{
+    "produto": {
+        "nome": "Cartucho e ÓLEO",
+        "linha": "",
+        "categoria": "",
+        "formato": "Frasco cilíndrico de plástico transparente liso com tampa pump lilás de plástico liso.",
+        "design_e_cores": "O frasco contém um óleo de cor amarelo-claro. Possui um rótulo adesivo. A parte superior do rótulo e a tampa são de um tom sólido de lilás (lavanda). A seção central e inferior do rótulo tem um fundo creme/bege claro adornado com ilustrações de flores de linhaça azuis vibrantes com seus caules e folhas verdes. Todos os textos no rótulo frontal são em branco. A caixa externa que acompanha o produto tem um design que replica o rótulo do frasco, com o topo lilás e o corpo bege/creme com as flores de linhaça azuis.",
+        "textos_exatos_do_rotulo": [
+            "BIO EXTRATUS",
+            "COSMÉTICOS NATURAIS",
+            "ÓLEO CABELO E CORPO",
+            "LINHAÇA",
+            "e coco",
+            "Umectante para cabelo e hidratante para pele",
+            "VEGANO",
+            "Zero%",
+            "Parabenos",
+            "Corantes",
+            "Toque seco e absorção imediata na pele",
+            "Dermatologicamente testado",
+            "TODO TIPO DE CABELO E PELE",
+            "120mL"
+        ]
+    },
+    "iluminacao_e_renderizacao": {
+        "tipo_de_luz": "Iluminação geral de estúdio (studio lighting), clara, neutra e suave.",
+        "sombras": "Sombras nítidas e marcadas projetadas para um lado, destacando a textura tridimensional e o volume.",
+        "texturas": "[Ex: Reflexos especulares sutis no plástico e material fosco realista.]",
+        "qualidade": "Ultra-detalhado, fotografia de produto hiper-realista em 4K, lente 85mm macro f/8, qualidade de campanha publicitária, texturas de material ricas e foco absolutamente nítido nos textos."
+    },
+    "prompt_negativo": "texto borrado, erros ortográficos nos rótulos, proporções distorcidas, iluminação plana, aspecto de pintura ou desenho animado, cores desbotadas, sombras suaves ou ausentes."
+}

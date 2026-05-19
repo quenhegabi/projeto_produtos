@@ -1,0 +1,35 @@
+{
+    "produto": {
+        "nome": "Creme GRISALHOS 250g",
+        "linha": "",
+        "categoria": "",
+        "formato": "Pote cilíndrico de plástico com acabamento acetinado, com base ligeiramente mais larga que o topo. Tampa rosqueável de plástico com acabamento acetinado.",
+        "design_e_cores": "Frasco e tampa em tom de cinza chumbo com acabamento acetinado. O logo 'BIO EXTRATUS' é dourado. Os textos 'COSMÉTICOS NATURAIS', 'GRISALHOS', 'MÁSCARA', 'Hidratante', 'Alcachofra', 'Biopolímeros', 'pH 4,0', 'Antioxidante', 'Brilho prateado' e '250g' são brancos. O texto 'desamarelador' é branco sobre um retângulo de fundo roxo magenta. O ícone da alcachofra é roxo magenta. Os textos 'VEGANO', 'ZERO%', 'Parabenos' e 'Petrolatos' são brancos dentro de um selo cinza claro. O texto vertical 'Dermatologicamente testado' é cinza claro.",
+        "textos_exatos_do_rotulo": [
+            "BIO EXTRATUS",
+            "COSMÉTICOS NATURAIS",
+            "GRISALHOS",
+            "desamarelador",
+            "MÁSCARA",
+            "Hidratante",
+            "Dermatologicamente testado",
+            "Alcachofra",
+            "Biopolímeros",
+            "VEGANO",
+            "ZERO%",
+            "Parabenos",
+            "Petrolatos",
+            "pH 4,0",
+            "Antioxidante",
+            "Brilho prateado",
+            "250g"
+        ]
+    },
+    "iluminacao_e_renderizacao": {
+        "tipo_de_luz": "Iluminação geral de estúdio (studio lighting), clara, neutra e suave.",
+        "sombras": "Sombras nítidas e marcadas projetadas para um lado, destacando a textura tridimensional e o volume.",
+        "texturas": "[Ex: Reflexos especulares sutis no plástico e material fosco realista.]",
+        "qualidade": "Ultra-detalhado, fotografia de produto hiper-realista em 4K, lente 85mm macro f/8, qualidade de campanha publicitária, texturas de material ricas e foco absolutamente nítido nos textos."
+    },
+    "prompt_negativo": "texto borrado, erros ortográficos nos rótulos, proporções distorcidas, iluminação plana, aspecto de pintura ou desenho animado, cores desbotadas, sombras suaves ou ausentes."
+}

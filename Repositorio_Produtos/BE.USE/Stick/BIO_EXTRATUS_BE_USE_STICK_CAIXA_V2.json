@@ -1,0 +1,30 @@
+{
+    "produto": {
+        "nome": "BIO_EXTRATUS_BE_USE_STICK_CAIXA_V2",
+        "linha": "BE.USE",
+        "categoria": "Stick",
+        "formato": "Caixa retangular vertical de papel cartão com acabamento semi-fosco.",
+        "design_e_cores": "A parte superior da caixa é roxo vibrante (tonalidade magenta-púrpura) e a parte inferior é um gradiente prateado-claro com um acabamento levemente perolado. Os textos 'BIO EXTRATUS', 'be.use', 'STICK' e 'ANTIFRIZZ' (este último na vertical) são em amarelo-limão neon. O texto 'por Andy Rodrigues' é em roxo sobre um fundo retangular roxo-claro. As frases 'ALINHA E HIDRATA', 'PENTEADO DURADOURO', '18g', 'ZERO%', 'PRODUTO VEGANO' e o símbolo de folha vegana são em cinza-púrpura escuro. O detalhe 'parabenos • corantes' é em cinza claro. O texto 'Dermatologicamente testado' (disposto verticalmente na lateral) é em preto.",
+        "textos_exatos_do_rotulo": [
+            "BIO EXTRATUS",
+            "be.use",
+            "STICK",
+            "ANTIFRIZZ",
+            "por Andy Rodrigues",
+            "ALINHA E HIDRATA",
+            "PENTEADO DURADOURO",
+            "18g",
+            "Dermatologicamente testado",
+            "ZERO%",
+            "parabenos • corantes",
+            "PRODUTO VEGANO"
+        ]
+    },
+    "iluminacao_e_renderizacao": {
+        "tipo_de_luz": "Iluminação geral de estúdio (studio lighting), clara, neutra e suave.",
+        "sombras": "Sombras nítidas e marcadas projetadas para um lado, destacando a textura tridimensional e o volume.",
+        "texturas": "[Ex: Reflexos especulares sutis no plástico e material fosco realista.]",
+        "qualidade": "Ultra-detalhado, fotografia de produto hiper-realista em 4K, lente 85mm macro f/8, qualidade de campanha publicitária, texturas de material ricas e foco absolutamente nítido nos textos."
+    },
+    "prompt_negativo": "texto borrado, erros ortográficos nos rótulos, proporções distorcidas, iluminação plana, aspecto de pintura ou desenho animado, cores desbotadas, sombras suaves ou ausentes."
+}

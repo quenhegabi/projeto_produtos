@@ -1,0 +1,35 @@
+{
+    "produto": {
+        "nome": "Shampoo 50ml",
+        "linha": "",
+        "categoria": "",
+        "formato": "Frasco de plástico opaco com um formato orgânico e curvado, mais largo na parte superior e inferior e ligeiramente mais estreito no meio, com base plana e ombros arredondados. Possui uma tampa flip-top de plástico liso.",
+        "design_e_cores": "O frasco é de cor creme claro (quase um amarelo muito pálido), com acabamento liso. A tampa flip-top é de um laranja brilhante. O rótulo é integrado no próprio frasco, apresentando uma faixa vertical laranja brilhante no lado esquerdo com o texto 'BIO EXTRATUS' em branco e 'COSMÉTICOS NATURAIS' em marrom escuro. O painel principal do rótulo tem um fundo creme ainda mais claro que o frasco, com ilustrações de flores e folhas de camomila em tons de verde, branco e amarelo-alaranjado no lado direito. Há um pequeno selo verde-claro com bordas arredondadas e o texto 'AMOSTRA GRÁTIS' em branco. Os textos 'Shampoo Iluminador', 'e', 'VEGANO', 'pH 5,5', 'Dermatologicamente testado' e a lista de ingredientes 'Sal Corantes Parabenos Petrolatos' são em cinza escuro. Os textos 'CAMOMILA', 'Girassol' e 'ZERO%' são em verde vibrante. Na parte inferior do rótulo, há uma faixa retangular laranja brilhante com os textos 'BRILHO E SUAVIDADE', 'LOIROS NATURAIS, COLORIDOS OU COM MECHAS' e '50mL' em branco.",
+        "textos_exatos_do_rotulo": [
+            "BIO EXTRATUS",
+            "COSMÉTICOS NATURAIS",
+            "AMOSTRA GRÁTIS",
+            "Shampoo Iluminador",
+            "CAMOMILA",
+            "e Girassol",
+            "ZERO%",
+            "Sal",
+            "Corantes",
+            "Parabenos",
+            "Petrolatos",
+            "VEGANO",
+            "Dermatologicamente testado",
+            "pH 5,5",
+            "BRILHO E SUAVIDADE",
+            "LOIROS NATURAIS, COLORIDOS OU COM MECHAS",
+            "50mL"
+        ]
+    },
+    "iluminacao_e_renderizacao": {
+        "tipo_de_luz": "Iluminação geral de estúdio (studio lighting), clara, neutra e suave.",
+        "sombras": "Sombras nítidas e marcadas projetadas para um lado, destacando a textura tridimensional e o volume.",
+        "texturas": "[Ex: Reflexos especulares sutis no plástico e material fosco realista.]",
+        "qualidade": "Ultra-detalhado, fotografia de produto hiper-realista em 4K, lente 85mm macro f/8, qualidade de campanha publicitária, texturas de material ricas e foco absolutamente nítido nos textos."
+    },
+    "prompt_negativo": "texto borrado, erros ortográficos nos rótulos, proporções distorcidas, iluminação plana, aspecto de pintura ou desenho animado, cores desbotadas, sombras suaves ou ausentes."
+}

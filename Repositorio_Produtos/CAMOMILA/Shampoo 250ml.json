@@ -1,0 +1,36 @@
+{
+    "produto": {
+        "nome": "Shampoo 250ml",
+        "linha": "",
+        "categoria": "",
+        "formato": "Frasco de plástico opaco, formato irregularmente cilíndrico, mais largo nos ombros e afunilando em direção à base e ao topo, com tampa flip-top de plástico liso.",
+        "design_e_cores": "Frasco em cor creme suave (quase branco-amarelado). A tampa é de plástico em tom de laranja vibrante e liso, com um anel dourado brilhante abaixo dela, na transição para o frasco. O rótulo é retangular com cantos arredondados, de fundo creme, e apresenta uma faixa vertical laranja brilhante no lado esquerdo com o nome da marca. Uma ilustração de flores de camomila e folhas verdes adorna o centro do rótulo. Os textos são predominantemente em verde escuro, laranja e creme/branco. Há um detalhe em forma de folha dourada no rótulo. O nome da marca 'BIO EXTRATUS' é gravado em relevo na parte inferior do frasco, na mesma cor creme do frasco.",
+        "textos_exatos_do_rotulo": [
+            "BIO EXTRATUS",
+            "COSMÉTICOS NATURAIS",
+            "Shampoo Iluminador",
+            "CAMOMILA",
+            "e Girassol",
+            "ZERO%",
+            "Sal",
+            "Corantes",
+            "Parabenos",
+            "Petrolatos",
+            "VEGANO",
+            "pH 5,5",
+            "Dermatologicamente testado",
+            "BRILHO E SUAVIDADE",
+            "LOIROS NATURAIS,",
+            "COLORIDOS OU COM MECHAS",
+            "250mL",
+            "BIO EXTRATUS"
+        ]
+    },
+    "iluminacao_e_renderizacao": {
+        "tipo_de_luz": "Iluminação geral de estúdio (studio lighting), clara, neutra e suave.",
+        "sombras": "Sombras nítidas e marcadas projetadas para um lado, destacando a textura tridimensional e o volume.",
+        "texturas": "[Ex: Reflexos especulares sutis no plástico e material fosco realista.]",
+        "qualidade": "Ultra-detalhado, fotografia de produto hiper-realista em 4K, lente 85mm macro f/8, qualidade de campanha publicitária, texturas de material ricas e foco absolutamente nítido nos textos."
+    },
+    "prompt_negativo": "texto borrado, erros ortográficos nos rótulos, proporções distorcidas, iluminação plana, aspecto de pintura ou desenho animado, cores desbotadas, sombras suaves ou ausentes."
+}

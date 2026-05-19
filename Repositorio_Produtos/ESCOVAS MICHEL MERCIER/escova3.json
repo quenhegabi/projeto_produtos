@@ -1,0 +1,17 @@
+{
+    "nome_arquivo": "escova3.png",
+    "linha": "ESCOVAS MICHEL MERCIER",
+    "categoria": "",
+    "detalhes_fisicos": {
+        "material_embalagem": "[Ex: Plástico fosco, Vidro transparente, Bisnaga de alumínio]",
+        "volume_ml_g": "[Ex: 250ml, 150g, 50ml]",
+        "cor_predominante": "[Ex: Branco, Verde, Preto]"
+    },
+    "prompt_ia": {
+        "sujeito": "[Descrição do formato do frasco. Ex: Frasco cilíndrico de shampoo pump]",
+        "iluminacao": "studio lighting, softbox, cinematic rim light, professional product photography",
+        "textura": "high details, hyperrealistic reflections, highly detailed materials",
+        "fundo": "neutral studio background, soft drop shadow",
+        "camera": "85mm lens, f/8, 4k resolution, hyperrealistic packshot"
+    }
+}

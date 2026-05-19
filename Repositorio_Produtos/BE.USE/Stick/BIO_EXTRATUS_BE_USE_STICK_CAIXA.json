@@ -1,0 +1,27 @@
+{
+    "produto": {
+        "nome": "BIO_EXTRATUS_BE_USE_STICK_CAIXA",
+        "linha": "",
+        "categoria": "",
+        "formato": "Caixa retangular de papel cartão. A parte superior possui acabamento fosco, enquanto a parte inferior tem um acabamento iridescente/holográfico.",
+        "design_e_cores": "A metade superior da embalagem é de cor roxo-médio sólido. A metade inferior apresenta um efeito iridescente/holográfico que reflete cores pastel variadas como rosa, verde, azul e amarelo. Os textos 'BIO EXTRATUS' e 'be.use' são em amarelo-limão vibrante. Os textos 'STICK' e 'ANTIFRIZZ' são em roxo escuro, sendo 'STICK' sobre o fundo roxo-médio e 'ANTIFRIZZ' sobre o fundo iridescente. A tarja 'por Andy Rodrigues' possui fundo amarelo-limão vibrante com texto em roxo escuro. Os textos 'ALINHA E HIDRATA', 'PENTEADO DURADOURO', '18g' e 'Dermatologicamente testado' (este último na lateral, em orientação vertical) são todos em roxo escuro.",
+        "textos_exatos_do_rotulo": [
+            "BIO EXTRATUS",
+            "be.use",
+            "STICK",
+            "ANTIFRIZZ",
+            "por Andy Rodrigues",
+            "ALINHA E HIDRATA",
+            "PENTEADO DURADOURO",
+            "18g",
+            "Dermatologicamente testado"
+        ]
+    },
+    "iluminacao_e_renderizacao": {
+        "tipo_de_luz": "Iluminação geral de estúdio (studio lighting), clara, neutra e suave.",
+        "sombras": "Sombras nítidas e marcadas projetadas para um lado, destacando a textura tridimensional e o volume.",
+        "texturas": "[Ex: Reflexos especulares sutis no plástico e material fosco realista.]",
+        "qualidade": "Ultra-detalhado, fotografia de produto hiper-realista em 4K, lente 85mm macro f/8, qualidade de campanha publicitária, texturas de material ricas e foco absolutamente nítido nos textos."
+    },
+    "prompt_negativo": "texto borrado, erros ortográficos nos rótulos, proporções distorcidas, iluminação plana, aspecto de pintura ou desenho animado, cores desbotadas, sombras suaves ou ausentes."
+}

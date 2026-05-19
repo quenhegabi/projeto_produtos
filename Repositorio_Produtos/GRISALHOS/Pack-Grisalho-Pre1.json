@@ -1,0 +1,45 @@
+{
+    "produto": {
+        "nome": "Pack-Grisalho-Pre1",
+        "linha": "",
+        "categoria": "",
+        "formato": "Conjunto de embalagens cosméticas: um frasco cilíndrico de plástico cinza chumbo fosco com tampa flip-top de plástico cinza chumbo; um frasco cilíndrico esguio de plástico ou vidro roxo translúcido com válvula pump preta e tampa protetora de plástico preto brilhante; e um pote cilíndrico largo e baixo de plástico cinza chumbo fosco com tampa de rosca de plástico cinza chumbo.",
+        "design_e_cores": "As embalagens de shampoo (frasco maior) e máscara (pote) são cinza chumbo fosco. O frasco de sérum (menor) é roxo translúcido vibrante. As tampas do shampoo e da máscara são cinza chumbo fosco. A válvula pump e a tampa protetora do sérum são pretas brilhantes. O design dos rótulos apresenta o logo 'BIO EXTRATUS' em dourado e 'COSMÉTICOS NATURAIS' em cinza escuro ou roxo escuro. Os títulos 'GRISALHOS' são em branco sobre cinza chumbo ou em roxo vibrante sobre branco (sérum). Faixas retangulares 'desamarelador' são em roxo vibrante com texto branco. Informações adicionais são em branco, com selos 'VEGANO' e 'ZERO%' em roxo e branco. Há ícones de alcachofra e uma estrutura molecular/átomo em roxo e branco.",
+        "textos_exatos_do_rotulo": [
+            "BIO EXTRATUS",
+            "COSMÉTICOS NATURAIS",
+            "Alcachofra",
+            "Biopolímeros",
+            "GRISALHOS",
+            "desamarelador",
+            "SHAMPOO",
+            "Revitalizante",
+            "pH 6,0",
+            "Antioxidante",
+            "Brilho prateado",
+            "Dermatologicamente testado",
+            "250mL",
+            "VEGANO",
+            "ZERO%",
+            "Sal",
+            "Parabenos",
+            "Petrolatos",
+            "SÉRUM",
+            "Finalizador",
+            "Oil Free",
+            "pH 4,0",
+            "TERMOPROTEÇÃO",
+            "55mL",
+            "MÁSCARA",
+            "Hidratante",
+            "250g"
+        ]
+    },
+    "iluminacao_e_renderizacao": {
+        "tipo_de_luz": "Iluminação geral de estúdio (studio lighting), clara, neutra e suave.",
+        "sombras": "Sombras nítidas e marcadas projetadas para um lado, destacando a textura tridimensional e o volume.",
+        "texturas": "[Ex: Reflexos especulares sutis no plástico e material fosco realista.]",
+        "qualidade": "Ultra-detalhado, fotografia de produto hiper-realista em 4K, lente 85mm macro f/8, qualidade de campanha publicitária, texturas de material ricas e foco absolutamente nítido nos textos."
+    },
+    "prompt_negativo": "texto borrado, erros ortográficos nos rótulos, proporções distorcidas, iluminação plana, aspecto de pintura ou desenho animado, cores desbotadas, sombras suaves ou ausentes."
+}

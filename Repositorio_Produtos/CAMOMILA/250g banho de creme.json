@@ -1,0 +1,33 @@
+{
+    "produto": {
+        "nome": "250g banho de creme",
+        "linha": "",
+        "categoria": "",
+        "formato": "Pote cilíndrico largo e baixo de plástico opaco na cor creme/amarelo muito claro, com tampa rosqueável plana de plástico liso na mesma cor creme/amarelo muito claro.",
+        "design_e_cores": "O corpo do pote e a tampa são de uma cor uniforme creme/amarelo muito claro. O rótulo é uma faixa horizontal que envolve o pote, apresentando um gradiente que vai de um amarelo pálido na parte superior, onde o logo está, para um laranja médio vibrante na parte central e inferior. Há ilustrações detalhadas de flores de camomila brancas com miolo amarelo e folhas verdes na lateral esquerda do rótulo. O logo 'BIO EXTRATUS' é em letras laranja-douradas com um leve contorno escuro, sobre o fundo amarelo pálido. Abaixo, 'COSMÉTICOS NATURAIS' está em verde escuro. As palavras 'Banho de Creme Iluminador', 'CAMOMILA' e 'e Girassol' estão em verde escuro sobre o fundo laranja. Há um selo verde claro com 'VEGANO' em verde escuro e 'ZERO%' em branco, acompanhado de 'Corantes', 'Parabenos', 'Petrolatos' em verde escuro. A frase 'BRILHO E SUAVIDADE', 'pH 4,5', 'LOIROS NATURAIS, COLORIDOS OU COM MECHAS' e '250g' estão em branco, com '250g' em destaque sobre o fundo laranja. Na lateral direita do pote, verticalmente, aparece 'Dermatologicamente testado' em verde escuro.",
+        "textos_exatos_do_rotulo": [
+            "BIO EXTRATUS",
+            "COSMÉTICOS NATURAIS",
+            "Banho de Creme Iluminador",
+            "CAMOMILA",
+            "e Girassol",
+            "VEGANO",
+            "ZERO%",
+            "Corantes",
+            "Parabenos",
+            "Petrolatos",
+            "BRILHO E SUAVIDADE",
+            "pH 4,5",
+            "LOIROS NATURAIS, COLORIDOS OU COM MECHAS",
+            "250g",
+            "Dermatologicamente testado"
+        ]
+    },
+    "iluminacao_e_renderizacao": {
+        "tipo_de_luz": "Iluminação geral de estúdio (studio lighting), clara, neutra e suave.",
+        "sombras": "Sombras nítidas e marcadas projetadas para um lado, destacando a textura tridimensional e o volume.",
+        "texturas": "[Ex: Reflexos especulares sutis no plástico e material fosco realista.]",
+        "qualidade": "Ultra-detalhado, fotografia de produto hiper-realista em 4K, lente 85mm macro f/8, qualidade de campanha publicitária, texturas de material ricas e foco absolutamente nítido nos textos."
+    },
+    "prompt_negativo": "texto borrado, erros ortográficos nos rótulos, proporções distorcidas, iluminação plana, aspecto de pintura ou desenho animado, cores desbotadas, sombras suaves ou ausentes."
+}

@@ -1,0 +1,30 @@
+{
+    "produto": {
+        "nome": "BIO_EXTRATUS_BE_USE_MODELADOR_CAIXA",
+        "linha": "",
+        "categoria": "",
+        "formato": "Pote retangular de plástico com cantos arredondados e acabamento liso e brilhante, com tampa plana integrada.",
+        "design_e_cores": "O pote é dividido horizontalmente em duas seções. A seção superior é de um magenta-púrpura vibrante. A seção inferior é de um branco perolado com um sutil efeito iridescente em tons de lilás, verde e rosa. Os textos 'BIO EXTRATUS' e 'be.use' são em cinza claro. Os textos 'MODELADOR DISCIPLINANTE', 'pH 4.5', '70g' e 'Dermatologicamente testado' são em preto. Os textos 'DEFINIÇÃO NATURAL E SEM FRIZZ', 'TOQUE SUAVE' e 'FILTRO SOLAR' são em magenta-púrpura. A caixa retangular que contém 'por Lucas Rodrigues' é de magenta-púrpura e o texto 'por Lucas Rodrigues' é em branco.",
+        "textos_exatos_do_rotulo": [
+            "BIO EXTRATUS",
+            "be.use",
+            "MODELADOR",
+            "DISCIPLINANTE",
+            "DEFINIÇÃO NATURAL",
+            "E SEM FRIZZ",
+            "TOQUE SUAVE",
+            "FILTRO SOLAR",
+            "por Lucas Rodrigues",
+            "pH 4.5",
+            "70g",
+            "Dermatologicamente testado"
+        ]
+    },
+    "iluminacao_e_renderizacao": {
+        "tipo_de_luz": "Iluminação geral de estúdio (studio lighting), clara, neutra e suave.",
+        "sombras": "Sombras nítidas e marcadas projetadas para um lado, destacando a textura tridimensional e o volume.",
+        "texturas": "[Ex: Reflexos especulares sutis no plástico e material fosco realista.]",
+        "qualidade": "Ultra-detalhado, fotografia de produto hiper-realista em 4K, lente 85mm macro f/8, qualidade de campanha publicitária, texturas de material ricas e foco absolutamente nítido nos textos."
+    },
+    "prompt_negativo": "texto borrado, erros ortográficos nos rótulos, proporções distorcidas, iluminação plana, aspecto de pintura ou desenho animado, cores desbotadas, sombras suaves ou ausentes."
+}

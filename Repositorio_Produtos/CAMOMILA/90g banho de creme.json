@@ -1,0 +1,33 @@
+{
+    "produto": {
+        "nome": "90g banho de creme",
+        "linha": "",
+        "categoria": "",
+        "formato": "Pote cilíndrico baixo de plástico opaco com tampa de rosca plana do mesmo material.",
+        "design_e_cores": "Pote e tampa em um tom de creme claro. O rótulo frontal tem fundo creme, com uma faixa horizontal larga em tom laranja queimado/mostarda posicionada na parte inferior-central. O logotipo 'BIO EXTRATUS' é em verde escuro, e 'COSMÉTICOS NATURAIS' é em verde claro. Há uma ilustração de flores de camomila e um girassol no lado esquerdo do rótulo, sobrepondo ligeiramente a faixa laranja. Textos principais em verde escuro, preto e branco. Os detalhes 'VEGANO' e 'ZERO%' estão contidos em caixas verdes retangulares com texto branco. A faixa laranja queimado contém o texto 'BRILHO E SUVIDADE' em branco e '90g' em um grande tipo verde escuro.",
+        "textos_exatos_do_rotulo": [
+            "BIO EXTRATUS",
+            "COSMÉTICOS NATURAIS",
+            "Banho de Creme Iluminador",
+            "CAMOMILA",
+            "e Girassol",
+            "VEGANO",
+            "ZERO%",
+            "Corantes",
+            "Plástico",
+            "Petróleo",
+            "Parabenos",
+            "pH 4,5",
+            "BRILHO E SUVIDADE",
+            "LOIROS NATURAIS, COLORIDOS OU COM MECHAS",
+            "90g"
+        ]
+    },
+    "iluminacao_e_renderizacao": {
+        "tipo_de_luz": "Iluminação geral de estúdio (studio lighting), clara, neutra e suave.",
+        "sombras": "Sombras nítidas e marcadas projetadas para um lado, destacando a textura tridimensional e o volume.",
+        "texturas": "[Ex: Reflexos especulares sutis no plástico e material fosco realista.]",
+        "qualidade": "Ultra-detalhado, fotografia de produto hiper-realista em 4K, lente 85mm macro f/8, qualidade de campanha publicitária, texturas de material ricas e foco absolutamente nítido nos textos."
+    },
+    "prompt_negativo": "texto borrado, erros ortográficos nos rótulos, proporções distorcidas, iluminação plana, aspecto de pintura ou desenho animado, cores desbotadas, sombras suaves ou ausentes."
+}

@@ -1,0 +1,29 @@
+{
+    "produto": {
+        "nome": "BIO_EXTRATUS_BE_USE_MODELADOR",
+        "linha": "",
+        "categoria": "",
+        "formato": "Pote circular de plástico liso e brilhante com tampa de rosca.",
+        "design_e_cores": "Pote e tampa de rosca em um tom de roxo vibrante (magenta). O rótulo central é circular, com um fundo iridescente/perolado que reflete tons suaves de branco, rosa, azul e amarelo. Os textos 'BIO EXTRATUS' e 'be.use' são em cinza claro/branco. Os textos 'MODELADOR' e 'DISCIPLINANTE' (ambos verticais), '70g', 'Dermatologicamente testado' (vertical) e 'pH 4,5' são em cinza escuro/preto. O texto 'por Lucas Rodrigues' está em uma barra retangular roxa (cor do pote), com 'por' em cinza claro e 'Lucas Rodrigues' em branco. Os textos 'DEFINIÇÃO NATURAL E SEM FRIZZ', 'TOQUE SUAVE' e 'FILTRO SOLAR' são em um tom de roxo suave/lilás.",
+        "textos_exatos_do_rotulo": [
+            "BIO EXTRATUS",
+            "be.use",
+            "MODELADOR",
+            "DISCIPLINANTE",
+            "por Lucas Rodrigues",
+            "DEFINIÇÃO NATURAL E SEM FRIZZ",
+            "TOQUE SUAVE",
+            "FILTRO SOLAR",
+            "70g",
+            "Dermatologicamente testado",
+            "pH 4,5"
+        ]
+    },
+    "iluminacao_e_renderizacao": {
+        "tipo_de_luz": "Iluminação geral de estúdio (studio lighting), clara, neutra e suave.",
+        "sombras": "Sombras nítidas e marcadas projetadas para um lado, destacando a textura tridimensional e o volume.",
+        "texturas": "[Ex: Reflexos especulares sutis no plástico e material fosco realista.]",
+        "qualidade": "Ultra-detalhado, fotografia de produto hiper-realista em 4K, lente 85mm macro f/8, qualidade de campanha publicitária, texturas de material ricas e foco absolutamente nítido nos textos."
+    },
+    "prompt_negativo": "texto borrado, erros ortográficos nos rótulos, proporções distorcidas, iluminação plana, aspecto de pintura ou desenho animado, cores desbotadas, sombras suaves ou ausentes."
+}

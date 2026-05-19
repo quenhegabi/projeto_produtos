@@ -1,0 +1,29 @@
+{
+    "produto": {
+        "nome": "BIO_EXTRATUS_BE_USE_MODELADOR_V2",
+        "linha": "",
+        "categoria": "",
+        "formato": "Pote cilíndrico baixo e largo (formato de disco) de plástico opaco e brilhante, com tampa de rosca plana que cobre toda a superfície superior.",
+        "design_e_cores": "Frasco e tampa na cor magenta-púrpura vibrante e brilhante. O rótulo frontal principal possui um fundo branco-perolado com um gradiente suave para lavanda-púrpura nas bordas internas, onde se encontra com a cor do frasco. Os textos 'BIO EXTRATUS' e 'be.use' são em verde-água claro. Os textos 'MODELADOR' e 'DISCIPLINANTE' são em preto. O texto 'por Lucas Rodrigues' é branco sobre um retângulo de fundo magenta-púrpura. Os textos 'DEFINIÇÃO NATURAL E SEM FRIZZ', 'TOQUE SUAVE' e 'FILTRO SOLAR' são em magenta-púrpura. O texto 'Dermatologicamente testado' é em cinza-claro. Os textos '70g' e 'pH 4.5' são em preto. O rótulo lateral visível também apresenta uma faixa iridescente com reflexos perolados.",
+        "textos_exatos_do_rotulo": [
+            "BIO EXTRATUS",
+            "be.use",
+            "MODELADOR",
+            "DISCIPLINANTE",
+            "por Lucas Rodrigues",
+            "DEFINIÇÃO NATURAL E SEM FRIZZ",
+            "TOQUE SUAVE",
+            "FILTRO SOLAR",
+            "Dermatologicamente testado",
+            "70g",
+            "pH 4.5"
+        ]
+    },
+    "iluminacao_e_renderizacao": {
+        "tipo_de_luz": "Iluminação geral de estúdio (studio lighting), clara, neutra e suave.",
+        "sombras": "Sombras nítidas e marcadas projetadas para um lado, destacando a textura tridimensional e o volume.",
+        "texturas": "[Ex: Reflexos especulares sutis no plástico e material fosco realista.]",
+        "qualidade": "Ultra-detalhado, fotografia de produto hiper-realista em 4K, lente 85mm macro f/8, qualidade de campanha publicitária, texturas de material ricas e foco absolutamente nítido nos textos."
+    },
+    "prompt_negativo": "texto borrado, erros ortográficos nos rótulos, proporções distorcidas, iluminação plana, aspecto de pintura ou desenho animado, cores desbotadas, sombras suaves ou ausentes."
+}

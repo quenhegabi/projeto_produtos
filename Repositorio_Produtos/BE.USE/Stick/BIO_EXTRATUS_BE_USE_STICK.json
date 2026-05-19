@@ -1,0 +1,27 @@
+{
+    "produto": {
+        "nome": "BIO_EXTRATUS_BE_USE_STICK",
+        "linha": "",
+        "categoria": "",
+        "formato": "Embalagem tipo bastão (stick) de plástico branco opaco e liso, com tampa de encaixe na parte superior e uma base com mecanismo giratório estriado para liberação do produto.",
+        "design_e_cores": "O corpo principal da embalagem é branco opaco. O rótulo apresenta uma grande faixa vertical central dividida: a seção superior é de cor amarelo pastel com a palavra 'STICK' em roxo escuro; a seção inferior é de cor roxo escuro com a palavra 'ANTIFRIZZ' em amarelo pastel. Acima desta faixa central, o logotipo 'BIO EXTRATUS' e o texto 'be.use' estão em roxo escuro. Abaixo da faixa central, há uma pequena faixa horizontal amarela pastel com o texto 'por Andy Rodrigues' em roxo escuro. As frases 'ALINHA E HIDRATA' e 'PENTEADO DURADOURO' estão em amarelo pastel, sobre o fundo roxo escuro da faixa central. A gramatura '18g' e a frase 'Dermatologicamente testado' (esta última posicionada verticalmente à direita da faixa roxa escura) estão em um tom de lilás/roxo claro.",
+        "textos_exatos_do_rotulo": [
+            "BIO EXTRATUS",
+            "be.use",
+            "STICK",
+            "ANTIFRIZZ",
+            "por Andy Rodrigues",
+            "ALINHA E HIDRATA",
+            "PENTEADO DURADOURO",
+            "18g",
+            "Dermatologicamente testado"
+        ]
+    },
+    "iluminacao_e_renderizacao": {
+        "tipo_de_luz": "Iluminação geral de estúdio (studio lighting), clara, neutra e suave.",
+        "sombras": "Sombras nítidas e marcadas projetadas para um lado, destacando a textura tridimensional e o volume.",
+        "texturas": "[Ex: Reflexos especulares sutis no plástico e material fosco realista.]",
+        "qualidade": "Ultra-detalhado, fotografia de produto hiper-realista em 4K, lente 85mm macro f/8, qualidade de campanha publicitária, texturas de material ricas e foco absolutamente nítido nos textos."
+    },
+    "prompt_negativo": "texto borrado, erros ortográficos nos rótulos, proporções distorcidas, iluminação plana, aspecto de pintura ou desenho animado, cores desbotadas, sombras suaves ou ausentes."
+}

@@ -1,0 +1,28 @@
+{
+    "produto": {
+        "nome": "BIO_EXTRATUS_BE_USE_PERFUME CAPILAR",
+        "linha": "BE.USE",
+        "categoria": "Perfume Capilar",
+        "formato": "Frasco cilíndrico alto e fino de aerossol, com a parte superior de plástico opaco e a inferior de metal prateado com brilho sutilmente granulado, e tampa pull-off de plástico preto brilhante.",
+        "design_e_cores": "Frasco com a metade superior em rosa pálido (quase nude rosado) fosco/acetinado e a metade inferior em prata metálico brilhante. A tampa é preta sólida e brilhante. Os textos 'BIO EXTRATUS', 'be.use', 'CAPILAR' e 'por Andy Rodrigues' são na cor magenta vibrante. Os textos 'PERFUME', '& SPRAY DE BRILHO' e '35g/50ml' são na cor preta. Os textos 'BRILHO E SEDOSIDADE', 'NEUTRALIZA ODORES' e 'Dermatologicamente testado' são na cor branca.",
+        "textos_exatos_do_rotulo": [
+            "BIO EXTRATUS",
+            "be.use",
+            "PERFUME",
+            "& SPRAY DE BRILHO",
+            "CAPILAR",
+            "por Andy Rodrigues",
+            "BRILHO E SEDOSIDADE",
+            "NEUTRALIZA ODORES",
+            "35g/50ml",
+            "Dermatologicamente testado"
+        ]
+    },
+    "iluminacao_e_renderizacao": {
+        "tipo_de_luz": "Iluminação geral de estúdio (studio lighting), clara, neutra e suave.",
+        "sombras": "Sombras nítidas e marcadas projetadas para um lado, destacando a textura tridimensional e o volume.",
+        "texturas": "[Ex: Reflexos especulares sutis no plástico e material fosco realista.]",
+        "qualidade": "Ultra-detalhado, fotografia de produto hiper-realista em 4K, lente 85mm macro f/8, qualidade de campanha publicitária, texturas de material ricas e foco absolutamente nítido nos textos."
+    },
+    "prompt_negativo": "texto borrado, erros ortográficos nos rótulos, proporções distorcidas, iluminação plana, aspecto de pintura ou desenho animado, cores desbotadas, sombras suaves ou ausentes."
+}

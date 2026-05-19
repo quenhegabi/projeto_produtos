@@ -1,0 +1,39 @@
+{
+    "produto": {
+        "nome": "+Hidra Finalizador 200g",
+        "linha": "",
+        "categoria": "",
+        "formato": "Bisnaga de plástico flexível com acabamento semibrilhante, selada horizontalmente na parte superior com ranhuras finas. Possui uma tampa flip-top de plástico liso na base.",
+        "design_e_cores": "A bisnaga é de cor lavanda (violeta claro), com a tampa na base em um tom de roxo ligeiramente mais escuro. O logotipo 'BIO EXTRATUS' e o texto 'COSMÉTICOS NATURAIS' são em dourado metálico. Os demais textos são majoritariamente brancos. A palavra 'preenchedor' está sobre uma faixa horizontal dourada. Há um selo retangular branco com borda roxa contendo os textos 'VEGANO', 'ZERO%', 'Parabenos', 'Corantes' em roxo. Um pequeno ícone de molécula em tom de magenta está presente.",
+        "textos_exatos_do_rotulo": [
+            "BIO EXTRATUS",
+            "COSMÉTICOS NATURAIS",
+            "Ácido Hialurônico",
+            "Blend de Óleos",
+            "+HIDRA",
+            "Ácido Hialurônico",
+            "preenchedor",
+            "FINALIZADOR",
+            "Hidratante",
+            "ação condicionante",
+            "com termoprotetor",
+            "e filtro solar",
+            "pH 4,0",
+            "VEGANO",
+            "ZERO%",
+            "Parabenos",
+            "Corantes",
+            "Hidratação Prolongada",
+            "CABELOS RESSECADOS",
+            "Dermatologicamente testado",
+            "200g"
+        ]
+    },
+    "iluminacao_e_renderizacao": {
+        "tipo_de_luz": "Iluminação geral de estúdio (studio lighting), clara, neutra e suave.",
+        "sombras": "Sombras nítidas e marcadas projetadas para um lado, destacando a textura tridimensional e o volume.",
+        "texturas": "[Ex: Reflexos especulares sutis no plástico e material fosco realista.]",
+        "qualidade": "Ultra-detalhado, fotografia de produto hiper-realista em 4K, lente 85mm macro f/8, qualidade de campanha publicitária, texturas de material ricas e foco absolutamente nítido nos textos."
+    },
+    "prompt_negativo": "texto borrado, erros ortográficos nos rótulos, proporções distorcidas, iluminação plana, aspecto de pintura ou desenho animado, cores desbotadas, sombras suaves ou ausentes."
+}

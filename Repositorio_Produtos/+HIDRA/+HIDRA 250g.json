@@ -1,0 +1,36 @@
+{
+    "produto": {
+        "nome": "+HIDRA 250g",
+        "linha": "",
+        "categoria": "",
+        "formato": "Bisnaga de plástico flexível com acabamento semi-fosco/acetinado, e tampa de rosca plana na mesma cor e material, que permite que o produto seja apoiado em pé.",
+        "design_e_cores": "Bisnaga e tampa em um tom de violeta médio (roxo), com acabamento semi-fosco. O logo 'BIO EXTRATUS' e 'COSMÉTICOS' são em dourado metálico, dispostos verticalmente no lado esquerdo do produto. O texto '+HIDRA' em destaque, 'Ácido Hialurônico' (presente em duas instâncias), 'MÁSCARA', 'Hidratante', 'pH 4,0', 'CABELOS RESSECADOS', 'Dermatologicamente testado' e '250g' são todos em branco. A palavra 'preenchedor' está sobre uma faixa retangular dourada metálica. Há um pequeno ponto vermelho entre 'Ácido Hialurônico' e 'Blend de Óleos' na parte superior. O ícone em forma de molécula estilizada é rosa magenta vibrante. A frase 'Hidratação Prolongada' está dentro de um retângulo roxo com borda branca fina e texto branco. O selo retangular branco, com borda roxa e textos roxos, indica 'VEGANO', 'ZERO%', 'Parabenos' e 'Corantes'.",
+        "textos_exatos_do_rotulo": [
+            "BIO EXTRATUS",
+            "COSMÉTICOS",
+            "Ácido Hialurônico",
+            "Blend de Óleos",
+            "+HIDRA",
+            "Ácido Hialurônico",
+            "preenchedor",
+            "MÁSCARA",
+            "Hidratante",
+            "pH 4,0",
+            "VEGANO",
+            "ZERO%",
+            "Parabenos",
+            "Corantes",
+            "Hidratação Prolongada",
+            "CABELOS RESSECADOS",
+            "Dermatologicamente testado",
+            "250g"
+        ]
+    },
+    "iluminacao_e_renderizacao": {
+        "tipo_de_luz": "Iluminação geral de estúdio (studio lighting), clara, neutra e suave.",
+        "sombras": "Sombras nítidas e marcadas projetadas para um lado, destacando a textura tridimensional e o volume.",
+        "texturas": "[Ex: Reflexos especulares sutis no plástico e material fosco realista.]",
+        "qualidade": "Ultra-detalhado, fotografia de produto hiper-realista em 4K, lente 85mm macro f/8, qualidade de campanha publicitária, texturas de material ricas e foco absolutamente nítido nos textos."
+    },
+    "prompt_negativo": "texto borrado, erros ortográficos nos rótulos, proporções distorcidas, iluminação plana, aspecto de pintura ou desenho animado, cores desbotadas, sombras suaves ou ausentes."
+}

@@ -1,0 +1,31 @@
+{
+    "produto": {
+        "nome": "BIO_EXTRATUS_BE_USE_ANTIENCOLHIMENTO",
+        "linha": "BE.USE",
+        "categoria": "Antiencolhimento",
+        "formato": "Bisnaga de plástico flexível com tampa flip-top de plástico.",
+        "design_e_cores": "Bisnaga com corpo em um tom vibrante de roxo na parte superior e inferior, e uma faixa horizontal central com acabamento iridescente/perolado em tons de branco. A tampa flip-top é do mesmo roxo vibrante do corpo da bisnaga. O logo 'BIO EXTRATUS' e o texto 'be.use' são em laranja. O texto 'ANTIENCOLHIMENTO' é em laranja na primeira parte ('ANTIENCO') e preto na segunda ('LHIMENTO'), alinhado verticalmente. 'LEAVE-IN' é em preto. 'por @omagodoscabelos' é em roxo claro. 'CURVAS DEFINIDAS' e '3A a 4C' são em fúcsia. 'FINALIZAÇÃO DURADOURA', 'FILTRO SOLAR', 'TERMOPROTETOR', 'ação condicionante', 'pH 5.0' e '250g' são em preto.",
+        "textos_exatos_do_rotulo": [
+            "BIO EXTRATUS",
+            "be.use",
+            "ANTIENCOLHIMENTO",
+            "LEAVE-IN",
+            "por @omagodoscabelos",
+            "CURVAS DEFINIDAS",
+            "3A a 4C",
+            "FINALIZAÇÃO DURADOURA",
+            "FILTRO SOLAR",
+            "TERMOPROTETOR",
+            "ação condicionante",
+            "pH 5.0",
+            "250g"
+        ]
+    },
+    "iluminacao_e_renderizacao": {
+        "tipo_de_luz": "Iluminação geral de estúdio (studio lighting), clara, neutra e suave.",
+        "sombras": "Sombras nítidas e marcadas projetadas para um lado, destacando a textura tridimensional e o volume.",
+        "texturas": "[Ex: Reflexos especulares sutis no plástico e material fosco realista.]",
+        "qualidade": "Ultra-detalhado, fotografia de produto hiper-realista em 4K, lente 85mm macro f/8, qualidade de campanha publicitária, texturas de material ricas e foco absolutamente nítido nos textos."
+    },
+    "prompt_negativo": "texto borrado, erros ortográficos nos rótulos, proporções distorcidas, iluminação plana, aspecto de pintura ou desenho animado, cores desbotadas, sombras suaves ou ausentes."
+}

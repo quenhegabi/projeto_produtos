@@ -1,0 +1,33 @@
+{
+    "produto": {
+        "nome": "BIO_EXTRATUS_BE_USE_SHAMPOO A SECO",
+        "linha": "BE.USE",
+        "categoria": "Shampoo a seco",
+        "formato": "Frasco cilíndrico de plástico liso com tampa de rosca cilíndrica preta de plástico liso.",
+        "design_e_cores": "Frasco dividido horizontalmente em duas cores: a parte superior é azul índigo e a parte inferior é verde menta claro. A tampa é preta. Os textos principais 'BIO EXTRATUS', 'be.use' e 'SHAMPOO A SECO' são em amarelo dourado/chartreuse. Os textos menores 'por Andy Rodrigues', 'ABSORVE A OLEOSIDADE', 'NÃO DEIXA RESÍDUOS', 'FIOS LEVES E SOLTOS', 'ENTRE LAVAGENS' e '98g/150ml' são em preto. A moldura do texto 'por Andy Rodrigues' é azul índigo. Os textos laterais 'Dermatologicamente testado', 'PRODUTO VEGANO' e 'ZERO parabenos petrolatos corantes' são em preto.",
+        "textos_exatos_do_rotulo": [
+            "BIO EXTRATUS",
+            "be.use",
+            "SHAMPOO A SECO",
+            "por Andy Rodrigues",
+            "ABSORVE A OLEOSIDADE",
+            "NÃO DEIXA RESÍDUOS",
+            "FIOS LEVES E SOLTOS",
+            "ENTRE LAVAGENS",
+            "98g/150ml",
+            "Dermatologicamente testado",
+            "PRODUTO VEGANO",
+            "ZERO",
+            "parabenos",
+            "petrolatos",
+            "corantes"
+        ]
+    },
+    "iluminacao_e_renderizacao": {
+        "tipo_de_luz": "Iluminação geral de estúdio (studio lighting), clara, neutra e suave.",
+        "sombras": "Sombras nítidas e marcadas projetadas para um lado, destacando a textura tridimensional e o volume.",
+        "texturas": "[Ex: Reflexos especulares sutis no plástico e material fosco realista.]",
+        "qualidade": "Ultra-detalhado, fotografia de produto hiper-realista em 4K, lente 85mm macro f/8, qualidade de campanha publicitária, texturas de material ricas e foco absolutamente nítido nos textos."
+    },
+    "prompt_negativo": "texto borrado, erros ortográficos nos rótulos, proporções distorcidas, iluminação plana, aspecto de pintura ou desenho animado, cores desbotadas, sombras suaves ou ausentes."
+}

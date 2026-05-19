@@ -1,0 +1,34 @@
+{
+    "produto": {
+        "nome": "Condicionador 50ml",
+        "linha": "",
+        "categoria": "",
+        "formato": "Frasco de plástico liso opaco com formato curvilíneo e ergonômico, base e topo mais largos, corpo estreito ao centro, e tampa flip-top integrada.",
+        "design_e_cores": "Frasco e tampa na cor bege claro uniforme. O rótulo é integrado, apresentando uma faixa vertical laranja-amarelada no lado esquerdo com o logotipo. No lado direito superior, há ilustrações de flores de camomila brancas com centro amarelo e folhas verdes. Um selo irregular verde com a inscrição 'AMOSTRA GRÁTIS' está posicionado no topo direito da ilustração. Na parte inferior, uma faixa horizontal laranja-escura. Os textos são em marrom escuro/preto, exceto 'CAMOMILA' em verde musgo escuro e os textos na faixa laranja-escura ('BRILHO E SUAVIDADE', 'CABELOS LOIROS NATURAIS, COLORIDOS OU COM MECHAS', '50mL') que são em branco.",
+        "textos_exatos_do_rotulo": [
+            "BIO EXTRATUS",
+            "COSMÉTICOS NATURAIS",
+            "AMOSTRA GRÁTIS",
+            "Condicionador iluminador",
+            "CAMOMILA",
+            "e Girassol",
+            "ZERO%",
+            "Corantes",
+            "Parabenos",
+            "Petrolatos",
+            "VEGANO",
+            "Dermatologicamente testado",
+            "pH 4,5",
+            "BRILHO E SUAVIDADE",
+            "CABELOS LOIROS NATURAIS, COLORIDOS OU COM MECHAS",
+            "50mL"
+        ]
+    },
+    "iluminacao_e_renderizacao": {
+        "tipo_de_luz": "Iluminação geral de estúdio (studio lighting), clara, neutra e suave.",
+        "sombras": "Sombras nítidas e marcadas projetadas para um lado, destacando a textura tridimensional e o volume.",
+        "texturas": "[Ex: Reflexos especulares sutis no plástico e material fosco realista.]",
+        "qualidade": "Ultra-detalhado, fotografia de produto hiper-realista em 4K, lente 85mm macro f/8, qualidade de campanha publicitária, texturas de material ricas e foco absolutamente nítido nos textos."
+    },
+    "prompt_negativo": "texto borrado, erros ortográficos nos rótulos, proporções distorcidas, iluminação plana, aspecto de pintura ou desenho animado, cores desbotadas, sombras suaves ou ausentes."
+}

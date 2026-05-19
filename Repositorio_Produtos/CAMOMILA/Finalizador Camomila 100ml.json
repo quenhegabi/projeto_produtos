@@ -1,0 +1,33 @@
+{
+    "produto": {
+        "nome": "Finalizador Camomila 100ml",
+        "linha": "",
+        "categoria": "",
+        "formato": "Frasco cilíndrico de plástico opaco bege claro, com válvula spray gatilho de plástico preto e tubo interno branco.",
+        "design_e_cores": "Frasco bege claro opaco. O rótulo frontal apresenta uma faixa vertical laranja vibrante no lado esquerdo com textos brancos. A área central do rótulo é bege claro, com um retângulo verde escuro no canto superior direito e ilustração de flores de camomila brancas com miolos amarelos e folhas verdes. Os textos nessa área são predominantemente em verde musgo escuro e verde claro. A faixa horizontal inferior do rótulo é laranja vibrante com textos brancos. A válvula spray gatilho é inteiramente preta.",
+        "textos_exatos_do_rotulo": [
+            "BIO EXTRATUS",
+            "COSMÉTICOS NATURAIS",
+            "filtro solar termoprotetor ação condicionante",
+            "ZERO%",
+            "Corantes",
+            "Parabenos",
+            "Petrolatos",
+            "Finalizador Líquido Iluminador",
+            "Camomila e Girassol",
+            "VEGANO",
+            "pH 4,0",
+            "BRILHO E SUAVIDADE",
+            "LOIROS NATURAIS, COLORIDOS OU COM MECHAS",
+            "100mL",
+            "Dermatologicamente testado"
+        ]
+    },
+    "iluminacao_e_renderizacao": {
+        "tipo_de_luz": "Iluminação geral de estúdio (studio lighting), clara, neutra e suave.",
+        "sombras": "Sombras nítidas e marcadas projetadas para um lado, destacando a textura tridimensional e o volume.",
+        "texturas": "[Ex: Reflexos especulares sutis no plástico e material fosco realista.]",
+        "qualidade": "Ultra-detalhado, fotografia de produto hiper-realista em 4K, lente 85mm macro f/8, qualidade de campanha publicitária, texturas de material ricas e foco absolutamente nítido nos textos."
+    },
+    "prompt_negativo": "texto borrado, erros ortográficos nos rótulos, proporções distorcidas, iluminação plana, aspecto de pintura ou desenho animado, cores desbotadas, sombras suaves ou ausentes."
+}

@@ -1,0 +1,36 @@
+{
+    "produto": {
+        "nome": "3D-vertical-B01_sem mol",
+        "linha": "",
+        "categoria": "",
+        "formato": "Caixa retangular de papel-cartão com acabamento liso e levemente fosco.",
+        "design_e_cores": "Embalagem predominantemente roxa vibrante (similar a violeta ou lavanda). O logotipo 'BIO EXTRATUS' é branco. '+HIDRA' tem o sinal de adição em amarelo e 'HIDRA' em branco. 'RENOV' é branco. 'Ácido Hialurônico' está em texto branco sobre uma faixa retangular em tom de magenta/rosa choque que desvanece suavemente. 'SUPLEMENTO ALIMENTAR' e 'COMPRIMIDOS MASTIGÁVEIS' são brancos. O emblema circular 'NUTRIENTES BIOATIVOS' tem um fundo dourado/amarelo com um símbolo estilizado em azul claro no centro, e os textos 'NUTRIENTES' e 'BIOATIVOS' em azul claro. Os bullet points são pequenos círculos magenta/rosa choque com textos em branco. A faixa 'MÚLTIPLOS BENEFÍCIOS PELE E CABELO' é magenta/rosa choque com textos em branco. A faixa 'CONTÉM 30 COMPRIMIDOS SABOR BLUEBERRY + MENTA' é verde-azulado claro (ciano) com textos em branco. A descrição 'item aromatizante sintético idêntico ao natural' é branca. A seção 'ZERO CALORIA' consiste em texto branco ('ZERO' e 'CALORIA') dentro de uma caixa retangular branca com uma fina borda verde-azulado claro.",
+        "textos_exatos_do_rotulo": [
+            "BIO EXTRATUS",
+            "+HIDRA",
+            "RENOV",
+            "Ácido Hialurônico",
+            "SUPLEMENTO ALIMENTAR",
+            "COMPRIMIDOS MASTIGÁVEIS",
+            "NUTRIENTES",
+            "BIOATIVOS",
+            "Ácido hialurônico",
+            "Vitamina D",
+            "Complexo de vitaminas e minerais",
+            "MÚLTIPLOS BENEFÍCIOS",
+            "PELE E CABELO",
+            "CONTÉM 30 COMPRIMIDOS",
+            "SABOR BLUEBERRY + MENTA",
+            "item aromatizante sintético idêntico ao natural",
+            "ZERO",
+            "CALORIA"
+        ]
+    },
+    "iluminacao_e_renderizacao": {
+        "tipo_de_luz": "Iluminação geral de estúdio (studio lighting), clara, neutra e suave.",
+        "sombras": "Sombras nítidas e marcadas projetadas para um lado, destacando a textura tridimensional e o volume.",
+        "texturas": "[Ex: Reflexos especulares sutis no plástico e material fosco realista.]",
+        "qualidade": "Ultra-detalhado, fotografia de produto hiper-realista em 4K, lente 85mm macro f/8, qualidade de campanha publicitária, texturas de material ricas e foco absolutamente nítido nos textos."
+    },
+    "prompt_negativo": "texto borrado, erros ortográficos nos rótulos, proporções distorcidas, iluminação plana, aspecto de pintura ou desenho animado, cores desbotadas, sombras suaves ou ausentes."
+}

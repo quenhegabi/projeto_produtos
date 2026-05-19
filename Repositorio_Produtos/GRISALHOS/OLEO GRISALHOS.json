@@ -1,0 +1,35 @@
+{
+    "produto": {
+        "nome": "OLEO GRISALHOS",
+        "linha": "",
+        "categoria": "",
+        "formato": "Frasco cilíndrico de plástico com corpo opaco e fundo translúcido roxo. Possui uma válvula pump preta e uma tampa protetora cilíndrica preta que cobre a válvula.",
+        "design_e_cores": "O corpo principal do frasco é cinza chumbo opaco, com a parte inferior exibindo um líquido roxo translúcido. A válvula pump e a tampa protetora são pretas. O rótulo frontal inclui uma faixa vertical no lado esquerdo em dourado, com o texto 'BIO EXTRATUS' em dourado e 'COSMÉTICOS NATURAIS' em rosa magenta. Os textos principais como 'GRISALHOS', 'SÉRUM Finalizador', 'TERMOPROTEÇÃO', 'Dermatologicamente testado' e '55mL' são em branco. O texto 'desamarelador' está em um tom de cinza escuro, quase imperceptível sobre o fundo cinza chumbo do frasco. Há um selo 'VEGANO ZERO% Parabenos Petrolatos' com fundo cinza claro, contornos e textos em verde e branco. Uma ilustração de uma alcachofra em tons de roxo está presente sobre um círculo branco, acompanhada dos textos 'Alcachofra Biopolímeros' e 'Antioxidante Brilho prateado' em branco.",
+        "textos_exatos_do_rotulo": [
+            "BIO EXTRATUS",
+            "COSMÉTICOS NATURAIS",
+            "VEGANO",
+            "ZERO%",
+            "Parabenos",
+            "Petrolatos",
+            "Alcachofra",
+            "Biopolímeros",
+            "GRISALHOS",
+            "desamarelador",
+            "SÉRUM",
+            "Finalizador",
+            "Antioxidante",
+            "Brilho prateado",
+            "TERMOPROTEÇÃO",
+            "Dermatologicamente testado",
+            "55mL"
+        ]
+    },
+    "iluminacao_e_renderizacao": {
+        "tipo_de_luz": "Iluminação geral de estúdio (studio lighting), clara, neutra e suave.",
+        "sombras": "Sombras nítidas e marcadas projetadas para um lado, destacando a textura tridimensional e o volume.",
+        "texturas": "[Ex: Reflexos especulares sutis no plástico e material fosco realista.]",
+        "qualidade": "Ultra-detalhado, fotografia de produto hiper-realista em 4K, lente 85mm macro f/8, qualidade de campanha publicitária, texturas de material ricas e foco absolutamente nítido nos textos."
+    },
+    "prompt_negativo": "texto borrado, erros ortográficos nos rótulos, proporções distorcidas, iluminação plana, aspecto de pintura ou desenho animado, cores desbotadas, sombras suaves ou ausentes."
+}

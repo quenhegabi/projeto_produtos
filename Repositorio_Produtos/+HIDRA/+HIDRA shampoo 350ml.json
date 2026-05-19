@@ -1,0 +1,39 @@
+{
+    "produto": {
+        "nome": "+HIDRA shampoo 350ml",
+        "linha": "",
+        "categoria": "",
+        "formato": "Frasco com corpo ligeiramente curvilíneo de plástico liso roxo lavanda, com tampa flip-top integrada de plástico liso na mesma cor.",
+        "design_e_cores": "Frasco e tampa em um tom roxo lavanda. O rótulo frontal apresenta o texto 'BIO EXTRATUS' em dourado/amarelo vibrante, e 'COSMÉTICOS NATURAIS' em branco. Há uma linha vertical e pontos de bala em rosa magenta claro, que guiam a leitura dos ingredientes 'Ácido Hialurônico' e 'Blend de Óleos' em branco. O logotipo '+HIDRA' e o texto 'Ácido Hialurônico' abaixo estão em branco. Uma caixa retangular com o texto 'preenchedor' em branco está em um fundo amarelo vibrante. Os textos 'SHAMPOO', 'Hidratante', 'pH 5,5', 'CABELOS RESSECADOS', 'Dermatologicamente testado' e '350mL' são em branco. Um selo 'VEGANO' com um checkmark, 'ZERO%', 'Sal', 'Parabenos' e 'Corantes' estão em branco sobre fundos retangulares rosa magenta claro. O ícone de hidratação e o texto 'Hidratação Prolongada' são em rosa magenta claro. Na lateral direita do frasco, o texto 'BIO EXTRATUS' é vertical e em branco.",
+        "textos_exatos_do_rotulo": [
+            "BIO EXTRATUS",
+            "COSMÉTICOS NATURAIS",
+            "Ácido",
+            "Hialurônico",
+            "Blend de Óleos",
+            "+HIDRA",
+            "Ácido Hialurônico",
+            "preenchedor",
+            "SHAMPOO",
+            "Hidratante",
+            "pH 5,5",
+            "VEGANO",
+            "ZERO%",
+            "Sal",
+            "Parabenos",
+            "Corantes",
+            "Hidratação Prolongada",
+            "CABELOS RESSECADOS",
+            "Dermatologicamente testado",
+            "350mL",
+            "BIO EXTRATUS"
+        ]
+    },
+    "iluminacao_e_renderizacao": {
+        "tipo_de_luz": "Iluminação geral de estúdio (studio lighting), clara, neutra e suave.",
+        "sombras": "Sombras nítidas e marcadas projetadas para um lado, destacando a textura tridimensional e o volume.",
+        "texturas": "[Ex: Reflexos especulares sutis no plástico e material fosco realista.]",
+        "qualidade": "Ultra-detalhado, fotografia de produto hiper-realista em 4K, lente 85mm macro f/8, qualidade de campanha publicitária, texturas de material ricas e foco absolutamente nítido nos textos."
+    },
+    "prompt_negativo": "texto borrado, erros ortográficos nos rótulos, proporções distorcidas, iluminação plana, aspecto de pintura ou desenho animado, cores desbotadas, sombras suaves ou ausentes."
+}

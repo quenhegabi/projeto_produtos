@@ -1,0 +1,36 @@
+{
+    "produto": {
+        "nome": "+HIDRA - BOX (2)",
+        "linha": "",
+        "categoria": "",
+        "formato": "Caixa de papelão retangular fosca.",
+        "design_e_cores": "A embalagem é predominantemente roxo lavanda fosco. Na frente, o logotipo 'BIO EXTRATUS' e a palavra 'RENOV' estão em branco, enquanto '+HIDRA' e 'Ácido Hialurônico' (este último dentro de um retângulo dourado com cantos arredondados) são dourados. A frase 'SUPLEMENTO ALIMENTAR COMPRIMIDOS MASTIGÁVEIS' é branca. Há um ícone circular com borda dourada e texto 'NUTRIENTES BIOATIVOS' em dourado; o centro do círculo é azul claro com uma forma molecular em magenta e branco. Os pontos listados ('Ácido hialurônico', 'Vitamina D', 'Complexo de vitaminas e minerais') são brancos. Uma faixa horizontal magenta contém 'MÚLTIPLOS BENEFÍCIOS PELE E CABELO' em branco. A faixa horizontal inferior é dourada, com 'CONTÉM 30 COMPRIMIDOS', 'SABOR BLUEBERRY + MENTA', 'Contém aromatizante sintético idêntico ao natural', 'ZERO' e 'CALORIA' em branco. A lateral visível da caixa também é roxo lavanda com textos em branco.",
+        "textos_exatos_do_rotulo": [
+            "BIO EXTRATUS",
+            "+HIDRA",
+            "RENOV",
+            "Ácido Hialurônico",
+            "SUPLEMENTO ALIMENTAR",
+            "COMPRIMIDOS MASTIGÁVEIS",
+            "NUTRIENTES",
+            "BIOATIVOS",
+            "Ácido hialurônico",
+            "Vitamina D",
+            "Complexo de vitaminas e minerais",
+            "MÚLTIPLOS BENEFÍCIOS",
+            "PELE E CABELO",
+            "CONTÉM 30 COMPRIMIDOS",
+            "SABOR BLUEBERRY + MENTA",
+            "Contém aromatizante sintético idêntico ao natural",
+            "ZERO",
+            "CALORIA"
+        ]
+    },
+    "iluminacao_e_renderizacao": {
+        "tipo_de_luz": "Iluminação geral de estúdio (studio lighting), clara, neutra e suave.",
+        "sombras": "Sombras nítidas e marcadas projetadas para um lado, destacando a textura tridimensional e o volume.",
+        "texturas": "[Ex: Reflexos especulares sutis no plástico e material fosco realista.]",
+        "qualidade": "Ultra-detalhado, fotografia de produto hiper-realista em 4K, lente 85mm macro f/8, qualidade de campanha publicitária, texturas de material ricas e foco absolutamente nítido nos textos."
+    },
+    "prompt_negativo": "texto borrado, erros ortográficos nos rótulos, proporções distorcidas, iluminação plana, aspecto de pintura ou desenho animado, cores desbotadas, sombras suaves ou ausentes."
+}

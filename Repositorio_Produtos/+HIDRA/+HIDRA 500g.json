@@ -1,0 +1,36 @@
+{
+    "produto": {
+        "nome": "+HIDRA 500g",
+        "linha": "",
+        "categoria": "",
+        "formato": "Jarra cilíndrica de plástico liso com acabamento satin, com tampa de rosca plana do mesmo material.",
+        "design_e_cores": "Jarra e tampa em um tom de roxo intenso e opaco. O texto 'BIO EXTRATUS' e 'COSMÉTICOS NATURAIS' é dourado. Os textos '+HIDRA', 'Ácido Hialurônico', 'MÁSCARA', 'Hidratante', 'CABELOS RESSECADOS', '500g' e 'Dermatologicamente testado' (rotacionado verticalmente na lateral esquerda) são brancos. O texto 'preenchedor' é branco sobre um fundo retangular dourado. As informações 'Ácido Hialurônico' e 'Blend de Óleos' são listadas em branco com marcadores. Há um selo 'ZERO%' em branco e três retângulos arredondados em rosa choque com texto branco para 'VEGANO' (com ícone de folha verde), 'Parabenos' e 'Corantes'. Dois retângulos arredondados em um tom de roxo mais escuro que a jarra contêm texto branco para 'pH 4,0' e 'Hidratação Prolongada'. Há um ícone de flor estilizada com contorno branco e preenchimento rosa claro. Uma linha vertical fina em rosa pink se estende na lateral esquerda do rótulo.",
+        "textos_exatos_do_rotulo": [
+            "BIO EXTRATUS",
+            "COSMÉTICOS NATURAIS",
+            "+HIDRA",
+            "Ácido Hialurônico",
+            "preenchedor",
+            "MÁSCARA",
+            "Hidratante",
+            "CABELOS RESSECADOS",
+            "500g",
+            "Dermatologicamente testado",
+            "Ácido Hialurônico",
+            "Blend de Óleos",
+            "ZERO%",
+            "VEGANO",
+            "Parabenos",
+            "Corantes",
+            "pH 4,0",
+            "Hidratação Prolongada"
+        ]
+    },
+    "iluminacao_e_renderizacao": {
+        "tipo_de_luz": "Iluminação geral de estúdio (studio lighting), clara, neutra e suave.",
+        "sombras": "Sombras nítidas e marcadas projetadas para um lado, destacando a textura tridimensional e o volume.",
+        "texturas": "[Ex: Reflexos especulares sutis no plástico e material fosco realista.]",
+        "qualidade": "Ultra-detalhado, fotografia de produto hiper-realista em 4K, lente 85mm macro f/8, qualidade de campanha publicitária, texturas de material ricas e foco absolutamente nítido nos textos."
+    },
+    "prompt_negativo": "texto borrado, erros ortográficos nos rótulos, proporções distorcidas, iluminação plana, aspecto de pintura ou desenho animado, cores desbotadas, sombras suaves ou ausentes."
+}
